@@ -1,0 +1,6 @@
+com\opencart\test\VerifyCartTest.class
+com\opencart\test\AddAndSaveProductsTest.class
+com\opencart\test\RegisterTest.class
+com\opencart\test\BaseTest.class
+com\opencart\test\OpenURLTest.class
+com\opencart\test\SelectProductTest.class

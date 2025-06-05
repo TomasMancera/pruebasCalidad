@@ -1,0 +1,10 @@
+com\opencart\pages\RegisterPage.class
+com\opencart\pages\BasePage.class
+com\opencart\utils\Constants.class
+com\opencart\pages\CartPage.class
+com\opencart\utils\Verify.class
+com\opencart\utils\ExcelReader.class
+com\opencart\pages\ProductPage.class
+com\opencart\utils\ExcelWriter.class
+com\opencart\pages\HomePage.class
+com\opencart\pages\ProductsDetallePage.class
